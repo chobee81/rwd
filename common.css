@@ -53,6 +53,8 @@ a { text-decoration: none; }
   #content > section { width: 48%; margin-bottom: 20px; }
 }
 @media screen and (max-width: 800px) {
+  #header h1 { left: 50px; }
+  #member ul li { margin-right: 0; }
   #slogan { height: 400px }
   #slogan h2 { font-size: 3rem; }
   #slogan p {  font-size: 1.2rem;}
