@@ -50,7 +50,7 @@ a { text-decoration: none; }
   #slogan h2 { font-size: 5rem; }
   #slogan p {  font-size: 2rem;}
   #content { flex-wrap: wrap; }
-  #content > section { width: 100%; margin-bottom: 20px; }
+  #content > section { width: 48%; margin-bottom: 20px; }
 }
 @media screen and (max-width: 800px) {
   #slogan { height: 400px }
